@@ -1,6 +1,6 @@
-# git-workshop
+# git-workshop 2019
 
-## Speakers
+## Speakers :
 
 * Anshuman Verma
 * Jay Mistry
